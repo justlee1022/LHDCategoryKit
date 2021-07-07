@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'LHDCategoryKit_Example' do
+  pod 'LHDCategoryKit', :path => '../'
+
+  target 'LHDCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
