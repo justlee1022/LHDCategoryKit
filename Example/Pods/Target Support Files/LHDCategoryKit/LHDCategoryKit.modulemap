@@ -1,0 +1,6 @@
+framework module LHDCategoryKit {
+  umbrella header "LHDCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

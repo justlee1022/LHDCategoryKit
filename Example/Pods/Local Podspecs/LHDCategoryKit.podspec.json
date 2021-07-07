@@ -1,0 +1,22 @@
+{
+  "name": "LHDCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of LHDCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/justlee1022/LHDCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "justlee1022": "justlee1022@163.com"
+  },
+  "source": {
+    "git": "https://github.com/justlee1022/LHDCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LHDCategoryKit/Classes/**/*"
+}
